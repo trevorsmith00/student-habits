@@ -1,5 +1,7 @@
 # Student Habits Analysis Project
 
+![Student Habits Project](Student_Habits_Social_Preview2.png)
+
 Welcome to my data analytics project exploring how student habits influence academic performance.
 
 This project uses statistical analysis and machine learning to investigate how variables such as study hours, attendance, extracurricular participation, and parental background affect exam scores.
@@ -35,7 +37,7 @@ This project uses statistical analysis and machine learning to investigate how v
 
 - [**Python Analysis Code**](Student_Habits_Analysis.py)  
 - [**Regression Report**](Student_Habits_Regression_Report.pdf)  
-- [**Student_Habits_Analysis_Report**](Student_Habits_Analysis_Report.pdf)  
+- [**Combined Analysis Report**](Student_Habits_Combined_Report.pdf)  
 - [**Cleaned Dataset**](cleaned_student_performance.csv)
 
 ---
@@ -53,4 +55,5 @@ This project was developed as part of my data analytics portfolio to demonstrate
 ---
 
 *Created by Trevor Smith*  
-*GitHub: [https://github.com/trevorsmith00](https://github.com/trevorsmith00)*  
+GitHub: [https://github.com/trevorsmith00](https://github.com/trevorsmith00)  
+

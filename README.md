@@ -22,7 +22,7 @@ The final regression model achieved an R² of ~0.68, meaning ~68% of the varianc
 
 ## 📄 Reports
 
-- 👉 [Combined Analysis Report (PDF)](Student_Habits_Combined_Report.pdf)
+- 👉 [Habits Analysis Report (PDF)](Student_Habits_Analysis_Report.pdf)
 - 👉 [Regression Report (PDF)](Student_Habits_Regression_Report.pdf)
 
 ---

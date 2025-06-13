@@ -1,6 +1,6 @@
 # Student Habits Analysis Project
 
-![Student Habits Project](Student_Habits_Preview.png)
+![Student Habits Project](Student_Habits_Social_Preview_Even_Smaller_Title.png)
 
 Welcome to my data analytics project exploring how student habits influence academic performance.
 
@@ -56,4 +56,3 @@ This project was developed as part of my data analytics portfolio to demonstrate
 
 *Created by Trevor Smith*  
 GitHub: [https://github.com/trevorsmith00](https://github.com/trevorsmith00)  
-

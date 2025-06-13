@@ -43,7 +43,7 @@ The final regression model achieved an R² of ~0.68, meaning ~68% of the varianc
 |------|-------------|
 | `Student_Habits_Analysis.py` | Main analysis code |
 | `Student_Habits_Regression_Report.pdf` | Regression model report |
-| `Student_Habits_Combined_Report.pdf` | Combined analysis report |
+| `Student_Habits_Analysis_Report.pdf` | Visualized analysis report |
 | `cleaned_student_performance.csv` | Cleaned dataset used for analysis |
 
 ---

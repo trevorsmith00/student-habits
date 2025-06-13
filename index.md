@@ -1,6 +1,6 @@
 # Student Habits Analysis Project
 
-![Student Habits Project](Student_Habits_Social_Preview (2).png)
+![Student Habits Project](Student_Habits_Preview.png)
 
 Welcome to my data analytics project exploring how student habits influence academic performance.
 

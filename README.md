@@ -66,5 +66,5 @@ This project was created as part of my data analytics portfolio to showcase:
 
 ---
 
-*Author: [Your Name]*  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
+*Author: Trevor Smith*  
+GitHub: [https://github.com/trevorsmith00](https://github.com/trevorsmith00)  

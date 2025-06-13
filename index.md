@@ -1,23 +1,56 @@
 # Student Habits Analysis Project
 
-This project analyzes how various student habits — including study hours, attendance, and parental education — impact academic performance.
+Welcome to my data analytics project exploring how student habits influence academic performance. 
 
-## 📄 Project Report
+This project uses statistical analysis and machine learning to investigate how variables such as study hours, attendance, extracurricular participation, and parental background affect exam scores.
 
-👉 [**View the Full Report (PDF)**](Student_Habits_Combined_Report.pdf)
+---
 
 ## 📊 Key Findings
 
-- Study hours are the strongest predictor of exam scores.
-- Attendance has a weak but significant effect.
-- Parental education level was not a significant predictor in this sample.
+✅ **Study Hours** → Strongest predictor of exam scores  
+✅ **Attendance** → Weak but significant positive effect  
+✅ **Parental Education Level** → No statistically significant effect in this dataset  
+✅ **Extracurricular Participation** → No significant impact detected  
 
-## 📂 Files
+---
 
-- Python Code: [Student_Habits_Analysis.py](Student_Habits_Analysis.py)
-- Regression Report: [Student_Habits_Regression_Report.pdf](Student_Habits_Regression_Report.pdf)
-- Cleaned Data: [cleaned_student_performance.csv](cleaned_student_performance.csv)
+## 📄 Project Report
 
-## About
+👉 [**Download Full Combined Report (PDF)**](Student_Habits_Combined_Report.pdf)
 
-Created as a data analytics project to explore relationships between student habits and academic outcomes.
+---
+
+## ⚙️ Methodology
+
+- Data preprocessing & feature encoding
+- Exploratory data visualization
+- Correlation analysis (Pearson, Spearman)
+- ANOVA testing for categorical variables
+- Multiple linear regression model built to predict exam scores
+
+---
+
+## 📂 Project Files
+
+- [**Python Analysis Code**](Student_Habits_Analysis.py)  
+- [**Regression Report**](Student_Habits_Regression_Report.pdf)  
+- [**Combined Analysis Report**](Student_Habits_Combined_Report.pdf)  
+- [**Cleaned Dataset**](cleaned_student_performance.csv)
+
+---
+
+## 💬 About
+
+This project was developed as part of my data analytics portfolio to demonstrate skills in:
+
+- Data cleaning & transformation  
+- Statistical analysis  
+- Model building (Multiple Linear Regression)  
+- Visualization & reporting  
+- Communicating data insights effectively  
+
+---
+
+*Created by [Your Name]*  
+*GitHub: [https://github.com/yourusername](https://github.com/yourusername)*  

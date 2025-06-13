@@ -35,7 +35,7 @@ This project uses statistical analysis and machine learning to investigate how v
 
 - [**Python Analysis Code**](Student_Habits_Analysis.py)  
 - [**Regression Report**](Student_Habits_Regression_Report.pdf)  
-- [**Combined Analysis Report**](Student_Habits_Combined_Report.pdf)  
+- [**Student_Habits_Analysis_Report**](Student_Habits_Analysis_Report.pdf)  
 - [**Cleaned Dataset**](cleaned_student_performance.csv)
 
 ---

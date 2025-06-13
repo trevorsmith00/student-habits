@@ -1,3 +1,61 @@
+<style>
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 900px;
+    margin: 50px auto;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    padding: 40px;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #0366d6;
+    border-bottom: 2px solid #eaecef;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 1.8em;
+    color: #0366d6;
+    margin-top: 30px;
+}
+
+h3 {
+    font-size: 1.4em;
+    color: #0366d6;
+    margin-top: 20px;
+}
+
+a {
+    color: #0366d6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+</style>
+
+<div class="container">
+
 # Student Habits Analysis Project
 
 ![Student Habits Project](Student_Habits_Preview.png)
@@ -56,3 +114,6 @@ This project was developed as part of my data analytics portfolio to demonstrate
 
 *Created by Trevor Smith*  
 GitHub: [https://github.com/trevorsmith00](https://github.com/trevorsmith00)  
+
+</div>
+

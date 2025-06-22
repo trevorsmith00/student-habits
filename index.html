@@ -1,159 +1,88 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Student Habits Analysis Project</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Student Habits Analysis</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <style>
     body {
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-        background-color: #f5f5f5;
-        color: #333;
-        line-height: 1.6;
-        margin: 0;
-        padding: 0;
+      margin: 0;
+      padding: 2rem;
+      font-family: 'Inter', sans-serif;
+      background: linear-gradient(to right, #eef2f3, #ffffff);
+      color: #333;
     }
 
-    .navbar {
-        background-color: #0366d6;
-        padding: 10px 20px;
-    }
-
-    .navbar a {
-        color: white;
-        text-decoration: none;
-        font-weight: bold;
-        margin-right: 20px;
-        font-size: 16px;
-    }
-
-    .navbar a:hover {
-        text-decoration: underline;
-    }
-
-    .container {
-        max-width: 900px;
-        margin: 50px auto;
-        background-color: white;
-        border-radius: 8px;
-        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-        padding: 40px;
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
     }
 
     h1 {
-        font-size: 2.5em;
-        color: #0366d6;
-        border-bottom: 2px solid #eaecef;
-        padding-bottom: 10px;
-        margin-bottom: 20px;
+      font-size: 2.5rem;
+      color: #2c3e50;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: auto;
+      background: white;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
     }
 
     h2 {
-        font-size: 1.8em;
-        color: #0366d6;
-        margin-top: 30px;
+      color: #34495e;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 0.5rem;
     }
 
-    h3 {
-        font-size: 1.4em;
-        color: #0366d6;
-        margin-top: 20px;
+    p {
+      line-height: 1.6;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 4rem;
+      font-size: 0.9rem;
+      color: #888;
     }
 
     a {
-        color: #0366d6;
-        text-decoration: none;
+      color: #0077cc;
+      text-decoration: none;
     }
 
     a:hover {
-        text-decoration: underline;
+      text-decoration: underline;
     }
-
-    img {
-        max-width: 100%;
-        height: auto;
-        display: block;
-        margin: 20px auto;
-    }
-    </style>
+  </style>
 </head>
-
 <body>
+  <header>
+    <h1>📊 Student Habits Data Analysis</h1>
+  </header>
 
-    <div class="navbar">
-        <a href="index.html">Home</a>
-        <a href="https://github.com/trevorsmith00/student-habits" target="_blank">GitHub Repo</a>
-    </div>
+  <div class="container">
+    <h2>Overview</h2>
+    <p>This project analyzes student study habits, sleep patterns, and productivity using visualized survey data.</p>
 
-    <div class="container">
-
-    <h1>Student Habits Analysis Project</h1>
-
-    <img src="Student_Habits_Social_Preview_Even_Smaller_Title.png" alt="Student Habits Project">
-
-    <p>Welcome to my data analytics project exploring how student habits influence academic performance.</p>
-
-    <p>This project uses statistical analysis and machine learning to investigate how variables such as study hours, attendance, extracurricular participation, and parental background affect exam scores.</p>
-
-    <hr>
-
-    <h2>📊 Key Findings</h2>
-
+    <h2>Visualizations</h2>
     <ul>
-        <li>✅ <strong>Study Hours</strong> → Strongest predictor of exam scores</li>
-        <li>✅ <strong>Attendance</strong> → Weak but significant positive effect</li>
-        <li>✅ <strong>Parental Education Level</strong> → No statistically significant effect in this dataset</li>
-        <li>✅ <strong>Extracurricular Participation</strong> → No significant impact detected</li>
+      <li><a href="study_hours_chart.png">Study Hours Comparison</a></li>
+      <li><a href="sleep_pattern.png">Sleep Patterns</a></li>
+      <li><a href="productivity_score.png">Productivity Scores</a></li>
     </ul>
 
-    <hr>
+    <h2>Key Insights</h2>
+    <p>We found that students who sleep 7–8 hours tend to have better productivity scores. Time spent studying was positively correlated with perceived performance.</p>
+  </div>
 
-    <h2>📄 Project Report</h2>
-
-    <p>👉 <a href="Student_Habits_Combined_Report.pdf"><strong>Download Full Combined Report (PDF)</strong></a></p>
-
-    <hr>
-
-    <h2>⚙️ Methodology</h2>
-
-    <ul>
-        <li>Data preprocessing & feature encoding</li>
-        <li>Exploratory data visualization</li>
-        <li>Correlation analysis (Pearson, Spearman)</li>
-        <li>ANOVA testing for categorical variables</li>
-        <li>Multiple linear regression model built to predict exam scores</li>
-    </ul>
-
-    <hr>
-
-    <h2>📂 Project Files</h2>
-
-    <ul>
-        <li><a href="Student_Habits_Analysis.py"><strong>Python Analysis Code</strong></a></li>
-        <li><a href="Student_Habits_Regression_Report.pdf"><strong>Regression Report</strong></a></li>
-        <li><a href="Student_Habits_Combined_Report.pdf"><strong>Combined Analysis Report</strong></a></li>
-        <li><a href="cleaned_student_performance.csv"><strong>Cleaned Dataset</strong></a></li>
-    </ul>
-
-    <hr>
-
-    <h2>💬 About</h2>
-
-    <p>This project was developed as part of my data analytics portfolio to demonstrate skills in:</p>
-
-    <ul>
-        <li>Data cleaning & transformation</li>
-        <li>Statistical analysis</li>
-        <li>Model building (Multiple Linear Regression)</li>
-        <li>Visualization & reporting</li>
-        <li>Communicating data insights effectively</li>
-    </ul>
-
-    <p><em>Created by Trevor Smith</em></p>
-    <p><a href="https://github.com/trevorsmith00">GitHub: https://github.com/trevorsmith00</a></p>
-
-    </div>
-
+  <footer>
+    Built by <a href="https://github.com/trevorsmith00">Trevor Smith</a> • <a href="https://github.com/trevorsmith00/student-habits">View on GitHub</a>
+  </footer>
 </body>
 </html>
